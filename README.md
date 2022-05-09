@@ -1,1 +1,1 @@
-Python code for Signal Analysis class (UNICAMP EA614)
+Code and simulations for Signal Analysis (UNICAMP EA614) and Linear Systems (EA619) classes
